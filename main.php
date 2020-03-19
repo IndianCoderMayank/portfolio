@@ -4,7 +4,7 @@
 	<title>Search</title>
 	<!--bootstrap 4 -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-	<link rel="stylesheet" href="CSS/style.css">
+	<link rel="stylesheet" href="style.css">
 
 </head>
 <body onload="load()">
